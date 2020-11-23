@@ -1,0 +1,2 @@
+alias __pomodoro="/Users/denysboiko/pomodoro/tomat.sh 25"
+alias __pomodoro_custom_duration="/Users/denysboiko/pomodoro/tomat.sh"
